@@ -31,12 +31,17 @@ Welcome to my GitHub profile! I'm an Industrial Engineer with an MBA and a recen
 
 - 🛡️ **Master in Occupational Risk Prevention (PRL)**  
   *UNIR (Online)*
+  
+  - 💼 **Master in Business Administration (MBA)**  
+  *UNIR (Online)*
 
-- 🏗️ **Industrial Engineering**  
+- 🏗️ **Master in Industrial Engineering**  
   *University of La Rioja*
 
-- 💼 **Master in Business Administration (MBA)**  
-  *UNIR (Online)*
+- 🏗️ **Mechanical Engineering**
+  *University of La Rioja*
+
+
 
 ---
 
