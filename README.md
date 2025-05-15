@@ -58,3 +58,21 @@ Welcome to my GitHub profile! I'm an Industrial Engineer with an MBA and a recen
 ## 📁 Activities & Projects
 
 - `accident-analysis-PRL`: Safety incident data analysis using Python and visualization
+
+---
+
+## 📫 Let's Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alejandro-manzanares-olmedo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Manzanares-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Alejandro" />
+  </a>
+</p>
+
+- ✉️ Email: alejandro.manzanaress@example.com  
+- 🌍 Languages: Spanish (native), English (fluent)
+
+---
+
+_Thanks for visiting my GitHub profile!_  
+Let’s build something great together. 🚀
