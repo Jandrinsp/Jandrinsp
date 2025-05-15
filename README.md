@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm an Industrial Engineer with an MBA and a recen
   </a>
 </p>
 
-- ✉️ Email: alejandro.manzanaress@example.com  
+- ✉️ Email: al.manzanaress@example.com  
 - 🌍 Languages: Spanish (native), English (fluent)
 
 ---
