@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm an Industrial Engineer with an MBA and a recen
 ## 📁 Activities & Projects
 
 - `accident-analysis-PRL`: Safety incident data analysis using Python and visualization
-
+    (https://github.com/Jandrinsp/Proyecto_final_Bootcamp_DS_Alex_Carlos)
 ---
 
 ## 📫 Let's Connect!
