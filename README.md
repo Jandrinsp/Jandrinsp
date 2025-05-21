@@ -37,7 +37,7 @@ Open to remote or on-site opportunities, where I can apply my analytical skills 
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Where to find me
 <p align="left">
   <a href="https://www.linkedin.com/in/alejandro-manzanares-olmedo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -52,5 +52,9 @@ Open to remote or on-site opportunities, where I can apply my analytical skills 
 [![English](https://img.shields.io/badge/-English%20(fluent)-0077B5?style=flat-square&logo=united-kingdom&logoColor=white)]()
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jandrinsp&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jandrinsp&layout=compact&theme=radical)
 
 
