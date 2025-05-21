@@ -4,9 +4,6 @@ I'm a **Data Science** enthusiast with knowledge in **Machine Learning** and dat
 
 Open to remote or on-site opportunities, where I can apply my analytical skills and data-driven mindset to optimize operations and drive impactful solutions.
 
-📌 **LinkedIn:** [Alejandro Manzanares Olmedo](https://www.linkedin.com/in/alejandro-manzanares-olmedo/)  
-📧 **Email:** [al.manzanaress@gmail.com](mailto:al.manzanaress@gmail.com)  
-
 ---
 
 ## 🛠️ Tech Stack & Tools
