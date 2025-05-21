@@ -1,17 +1,4 @@
-<div id="coding">🚀 Coding in Progress...</div>
-<style>
-  #coding {
-    font-size: 24px;
-    font-weight: bold;
-    animation: fadeInOut 3s infinite;
-  }
-
-  @keyframes fadeInOut {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 0; }
-  }
-</style>
+[![Coding in Progress](https://img.shields.io/badge/Coding-in%20Progress-blue?style=for-the-badge)]()
 
 # Hi, I'm Alejandro
 
