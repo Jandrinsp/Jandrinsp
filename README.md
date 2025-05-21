@@ -1,5 +1,17 @@
-![Coding in Progress](https://media.giphy.com/media/Y3GZvxDaTKnIk/giphy.gif)
+<div id="coding">🚀 Coding in Progress...</div>
+<style>
+  #coding {
+    font-size: 24px;
+    font-weight: bold;
+    animation: fadeInOut 3s infinite;
+  }
 
+  @keyframes fadeInOut {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+</style>
 
 # Hi, I'm Alejandro
 
