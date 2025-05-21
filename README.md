@@ -1,68 +1,41 @@
-# 👋 Hi, my name is Alejandro
+# "Hi, I'm Alejandro
 
-Welcome to my GitHub profile! I'm an Industrial Engineer with an MBA and a recent graduate from a **Data Science & Machine Learning Bootcamp at 4Geeks Academy**. With a solid technical foundation, experience in the energy and industrial sectors, and strong analytical skills, I'm now focused on transitioning into **data-driven roles** in **consulting, energy, or industrial operations**.
-
----
-
-## 🧠 About Me
-
-- 🎓 Industrial Engineer | MBA | PRL Master Candidate  
-- 📊 Data Science & Machine Learning Bootcamp @ 4Geeks Academy  
-- 🏭 Background in engineering, safety, operations and continuous improvement  
-- 🧩 Passionate about analytics, problem-solving, and process optimization  
-- 🚀 Currently building projects at the intersection of **industry + data + ML**
-
----
-
-## 🔍 More About Me
-
-- 🌍 Based in La Rioja, Spain — open to relocation or remote work  
-- 🏢 4+ years of experience across engineering, energy and manufacturing  
-- 💡 Familiar with Lean tools (Kaizen, Kamishibai, 5S) and ISO 45001 audits  
-- 📈 Interested in applying **data science to consulting, energy, and supply chain**
-- 🤖 Learning every day — especially in Python, SQL and ML applications  
-
----
-
-## 🎓 Education
-
-- 📘 **Data Science & Machine Learning Bootcamp**  
-  *4Geeks Academy (2025)*
-
-- 🛡️ **Master in Occupational Risk Prevention (PRL)**  
-  *UNIR (Online)*
-  
-  - 💼 **Master in Business Administration (MBA)**  
-  *UNIR (Online)*
-
-- 🏗️ **Master in Industrial Engineering**  
-  *University of La Rioja*
-
-- 🏗️ **Mechanical Engineering**
-  *University of La Rioja*
-
-
+I'm a **Data Science** enthusiast with knowledge in **Machine Learning** and data visualization, with a background in Industrial Engineering, specializing in the energy sector and Lean methodologies.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-- 🐍 Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn  
-- 🧠 Machine Learning · Data Cleaning · Feature Engineering  
-- 🛢️ SQL · Power BI · Excel  
-- 🛠️ Jupyter Notebooks · Git · GitHub · VS Code  
-- ☁️ Learning: Docker · Streamlit · TensorFlow
+### **Languages**
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
----
+### **Frameworks & Libraries**
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-0078D4?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 
-## 📁 Activities & Projects
+### **Data Science & ML Skills**
+[![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-00C853?style=flat-square&logo=python&logoColor=white)](https://scikit-learn.org/)
+[![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-00838F?style=flat-square&logo=python&logoColor=white)](https://pandas.pydata.org/)
 
-- `accident-analysis-PRL`: Safety incident data analysis using Python and visualization
-    (https://github.com/Jandrinsp/Proyecto_final_Bootcamp_DS_Alex_Carlos)
+### **Programming Tools**
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+### **Cloud & Services (Learning)**
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+
 ---
 
 ## 📫 Let's Connect!
-
 <p align="left">
   <a href="https://www.linkedin.com/in/alejandro-manzanares-olmedo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Manzanares-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Alejandro" />
@@ -70,9 +43,10 @@ Welcome to my GitHub profile! I'm an Industrial Engineer with an MBA and a recen
 </p>
 
 - ✉️ Email: al.manzanaress@example.com  
-- 🌍 Languages: Spanish (native), English (fluent)
+- 🌍 Languages: **Spanish (native)**, **English (fluent)**  
 
 ---
 
 _Thanks for visiting my GitHub profile!_  
-Let’s build something great together. 🚀
+Let's build something great together. 🚀
+
