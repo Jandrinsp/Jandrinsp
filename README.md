@@ -53,7 +53,6 @@ Open to remote or on-site opportunities, where I can apply my analytical skills 
 - 🌍 Languages: **Spanish (native)**, **English (fluent)**  
 
 ---
-
-_Thanks for visiting my GitHub profile!_  
-Let's build something great together. 🚀
+[![Spanish](https://img.shields.io/badge/-Spanish-EF233C?style=flat-square&logo=es&logoColor=white)]()
+[![English](https://img.shields.io/badge/-English-0077B5?style=flat-square&logo=united-kingdom&logoColor=white)]()
 
