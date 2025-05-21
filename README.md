@@ -43,11 +43,13 @@ Open to remote or on-site opportunities, where I can apply my analytical skills 
 ## 📫 Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/alejandro-manzanares-olmedo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Manzanares-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Alejandro" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:al.manzanaress@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-- ✉️ Email: al.manzanaress@example.com  
 - 🌍 Languages: **Spanish (native)**, **English (fluent)**  
 
 ---
