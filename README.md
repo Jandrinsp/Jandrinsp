@@ -1,5 +1,3 @@
-[![Coding in Progress](https://img.shields.io/badge/Coding-in%20Progress-blue?style=for-the-badge)]()
-
 # Hi, I'm Alejandro
 
 I'm a **Data Science** enthusiast with knowledge in **Machine Learning** and data visualization, with a background in Industrial Engineering, specializing in the energy sector and Lean methodologies.
