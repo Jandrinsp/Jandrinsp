@@ -1,4 +1,4 @@
-# "Hi, I'm Alejandro
+# Hi, I'm Alejandro
 
 I'm a **Data Science** enthusiast with knowledge in **Machine Learning** and data visualization, with a background in Industrial Engineering, specializing in the energy sector and Lean methodologies.
 
