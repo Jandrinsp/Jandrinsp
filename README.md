@@ -50,9 +50,10 @@ Open to remote or on-site opportunities, where I can apply my analytical skills 
   </a>
 </p>
 
-- 🌍 Languages: **Spanish (native)**, **English (fluent)**  
+##🌍 Languages: 
+[![Spanish](https://img.shields.io/badge/-Spanish%20(native)-EF233C?style=flat-square&logo=es&logoColor=white)]()
+[![English](https://img.shields.io/badge/-English%20(fluent)-0077B5?style=flat-square&logo=united-kingdom&logoColor=white)]()
 
 ---
-[![Spanish](https://img.shields.io/badge/-Spanish-EF233C?style=flat-square&logo=es&logoColor=white)]()
-[![English](https://img.shields.io/badge/-English-0077B5?style=flat-square&logo=united-kingdom&logoColor=white)]()
+
 
